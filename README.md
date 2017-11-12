@@ -7,6 +7,7 @@ window 平台使用 [Mongodb](http://www.runoob.com/mongodb/mongodb-window-insta
     C:\Program Files\MongoDB\Server\3.4\bin\mongod --dbpath C:\mongodb\data\db
 
 ## 启动 Node 服务
+    npm install
     npm run start
 
 ## 访问服务
